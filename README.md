@@ -98,7 +98,7 @@ Lost-Found-Portal/
 ## Clone Repository
 
 ```bash
-git clone https://github.com/yourusername/lost-found-campus.git
+git clone https://github.com/AMANKUMAR00200/lost-found-campus.git
 ```
 
 ```
